@@ -1,6 +1,6 @@
 # country-state-city-java-script-code-
 it is java-script code for select country and show other drop down related state and city 
-javascript code for country state city drop down Autocomplete action example
+javascript code for country state city drop down Autocomplete action example    
 
 <!doctype html>
 <html>
